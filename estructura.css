@@ -1,0 +1,52 @@
+.flex-item {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+.flex-containerretina {
+    display: block;
+    width: 20%;
+    height: 30%;
+    margin: 30px;
+    background-color: white;
+    justify-content: right;
+    align-content: left;
+}
+.flex-containeriphone {
+    display: inline-flex;
+    width: 20%;
+    height: 30%;
+    margin: 30px;
+    background-color: white;
+    justify-content: left;
+    align-content: right;
+}
+.flex-container1 {
+    display: inline-block;
+    width: 20%;
+    height: 30%;
+    margin: 30px;
+    background-color: white;
+    justify-content: center;
+    align-content: left;
+}
+.flex-containerretina2 {
+    display: inline-block;
+    width: 20%;
+    height: 30%;
+    margin: 30px;
+    background-color: white;
+    justify-content: center;
+    align-content: left;
+}
+.flex-containercentral {
+    display: inline-flex;
+    width: 20%;
+    height: 30%;
+    margin: 30px;
+    background-color: white;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    }

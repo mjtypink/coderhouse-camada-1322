@@ -1,0 +1,54 @@
+body {
+    background-color: #ecf0f1;
+	font-family:'Open Sans', sans-serif;
+}
+
+.head-nav {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.ul {
+	text-align: center;
+	font-family:'Open Sans', sans-serif;
+}
+
+ul {list-style-type: none
+}
+
+ul li {
+    display: inline;
+}
+
+.precios {
+    border-radius: 4px;
+    padding: 25px;
+ }
+article {
+	padding: 0px;
+}
+
+footer {
+	text-align: center;
+	font-size: 0,5rem;
+}
+article {
+	list-style-type: none;
+	display: inline;
+	}
+a {
+	display: inline-block;
+	text-decoration: none;
+	}
+h2 {
+	display: inline-block;
+	align-content: center;
+	}
+.flex {
+	max-width:100%;
+	}
+img {
+	width: auto;
+	}
